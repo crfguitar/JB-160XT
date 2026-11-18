@@ -17,7 +17,7 @@ A working plugin exists and is installed. The user has tried it in FL Studio and
 | Sidechain (external detector) | Built, passing its DSP check, and confirmed working in FL Studio by the user (2026-11-16: "works spectacularly") |
 | Installed copy | `C:\Program Files\Common Files\VST3\JB 160XT.vst3`, from the 2026-11-15 17:52 build |
 | Hardware measurements | None taken |
-| Version control | No git repository |
+| Version control | Public GitHub repo https://github.com/crfguitar/JB-160XT (AGPL-3.0), branch main |
 
 The user's last request was the sidechain feature, and they have since confirmed it works in FL Studio.
 
