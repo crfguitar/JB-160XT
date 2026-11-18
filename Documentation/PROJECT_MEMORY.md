@@ -96,3 +96,7 @@ Read from the native scans (drawing 160XT-00-01-02-01); values are quoted in `So
 
 The user asked for easy sidechaining (kick ducking 808s). Implemented as the hardware's rear-panel DETECTOR INPUT: a VST3 sidechain bus plus a Detector Input parameter (Internal / External), chosen from a right-click menu on the panel so the front panel stays faithful. External with no sidechain bus falls back to internal. Not yet confirmed working in FL Studio's wrapper routing.
 
+
+## Published to GitHub (2026-11-18)
+
+Public repo: https://github.com/crfguitar/JB-160XT, AGPL-3.0 to match JUCE. Only our own notes, code and photos of the unit are tracked. Third-party manuals, schematics, datasheets, papers and vendor images stay local through `.gitignore`. GPS EXIF was stripped from the unit photos before publishing, and the originals are kept, git-ignored, in `pictures-of-my-160xt/_originals/`. Strip EXIF from any photo added later.
