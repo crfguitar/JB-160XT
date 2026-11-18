@@ -1,0 +1,638 @@
+[
+  {
+    "path": "01_Hardware_Service/XT_Schematics/160XT Schematic Page1.pdf",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Unmodified PDF extracted from original ZIP",
+    "bytes": 148683,
+    "sha256": "98c018d0f0713b332792dbf66f29bf720232cb0e5cd10b6ccb20394d3179d39c",
+    "archive_member": "160XT Schematic Page1.pdf"
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/Native_Scans/160XT_Schematic_Page1.png",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Native embedded scan pixels; no enlargement",
+    "bytes": 389064,
+    "sha256": "91d7c243fff3fbbf2ac36543763ce31eaee3ff295c19d0544f835b48147c8446",
+    "archive_member": "160XT Schematic Page1.pdf",
+    "width": 5072,
+    "height": 3295
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/160XT Schematic Page2.pdf",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Unmodified PDF extracted from original ZIP",
+    "bytes": 83401,
+    "sha256": "d511e54761008a6b8559b1e12b42f804156953e410a08d4739b1b3659aa4023f",
+    "archive_member": "160XT Schematic Page2.pdf"
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/Native_Scans/160XT_Schematic_Page2.png",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Native embedded scan pixels; no enlargement",
+    "bytes": 299776,
+    "sha256": "4f01a1b0276b3c9cc2dc871fbb65b9d380cddb6bf4a37a62eaa0d0d4c3bede44",
+    "archive_member": "160XT Schematic Page2.pdf",
+    "width": 5072,
+    "height": 3295
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/160XT Schematic Page3.pdf",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Unmodified PDF extracted from original ZIP",
+    "bytes": 89401,
+    "sha256": "a3628049aa6e267aaaf45ad98e521fa0cb1a118dc6c62ecc8a0c456080a3329c",
+    "archive_member": "160XT Schematic Page3.pdf"
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/Native_Scans/160XT_Schematic_Page3.png",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Native embedded scan pixels; no enlargement",
+    "bytes": 305417,
+    "sha256": "7438054f3ff901a44ab24ad9956190974aed1f9f6615ba8b53f487245f762e29",
+    "archive_member": "160XT Schematic Page3.pdf",
+    "width": 5088,
+    "height": 3295
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/160XT Schematic Page4.pdf",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Unmodified PDF extracted from original ZIP",
+    "bytes": 74937,
+    "sha256": "c4893d1a230a88b1a8fbd1dfe82f3a0bba6af52c1843de855cee1ca834294928",
+    "archive_member": "160XT Schematic Page4.pdf"
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/Native_Scans/160XT_Schematic_Page4.png",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Native embedded scan pixels; no enlargement",
+    "bytes": 233251,
+    "sha256": "04e9525d2af570f939055fdac4729a95e8b9694262430eb700ce806a511c3351",
+    "archive_member": "160XT Schematic Page4.pdf",
+    "width": 5088,
+    "height": 3295
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/160XT Schematic Page5.pdf",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Unmodified PDF extracted from original ZIP",
+    "bytes": 81625,
+    "sha256": "225419e5b12b01cf56b82e94470cfd1aadb48d9ea24f0bf306bdb6beec7e00f2",
+    "archive_member": "160XT Schematic Page5.pdf"
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/Native_Scans/160XT_Schematic_Page5.png",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Native embedded scan pixels; no enlargement",
+    "bytes": 286838,
+    "sha256": "bf558beda3e01314a9f836a079a3e2bf2ab01e8d7258cbf7c141b538487988da",
+    "archive_member": "160XT Schematic Page5.pdf",
+    "width": 5072,
+    "height": 3295
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/160XT Schematic Page6.pdf",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Unmodified PDF extracted from original ZIP",
+    "bytes": 86505,
+    "sha256": "a545a4e704aa7fb861b44de94a4526e374de756b2701a80a526d9bf160521679",
+    "archive_member": "160XT Schematic Page6.pdf"
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/Native_Scans/160XT_Schematic_Page6.png",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Native embedded scan pixels; no enlargement",
+    "bytes": 296938,
+    "sha256": "1ecc504c25a2e7545710c1478fae412f0ad761c64bd717ead03c2f95938f1f04",
+    "archive_member": "160XT Schematic Page6.pdf",
+    "width": 5072,
+    "height": 3295
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/160XT Schematic Page7.pdf",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Unmodified PDF extracted from original ZIP",
+    "bytes": 133787,
+    "sha256": "abd2ad2c1b58ab6080b847eede0c0679178e04645d094ffd746dd9580f27a7df",
+    "archive_member": "160XT Schematic Page7.pdf"
+  },
+  {
+    "path": "01_Hardware_Service/XT_Schematics/Native_Scans/160XT_Schematic_Page7.png",
+    "source_id": "HW02",
+    "source_sha256": "bbb2f88d93c2892297a94d7548158352ef619dbf2f57f5f8cac53391df181a5f",
+    "operation": "Native embedded scan pixels; no enlargement",
+    "bytes": 359608,
+    "sha256": "e3306e8f94210f5fefc3760a636fc1a7daa5a91b639a7077568e00e77225cf51",
+    "archive_member": "160XT Schematic Page7.pdf",
+    "width": 5088,
+    "height": 3295
+  },
+  {
+    "path": "05_Plugin_References/Images/Overloud_Comp160_Full_UI_1900px.png",
+    "source_id": "PL02",
+    "source_sha256": "0a8d5bae11c167775f2bff2edb59d4a97fab62cc19cec1e5b1eb4be4edc47f3f",
+    "operation": "Native embedded image pixels; no enlargement",
+    "bytes": 4661582,
+    "sha256": "6df93029b23a66bfc56d58d0182ee0c06598fb8d6abb005555a78bae061d49ef",
+    "pdf_page": 55,
+    "pdf_xref": 361,
+    "width": 1900,
+    "height": 1196
+  },
+  {
+    "path": "05_Plugin_References/Images/Overloud_Comp160_VU_UI_1900px.png",
+    "source_id": "PL02",
+    "source_sha256": "0a8d5bae11c167775f2bff2edb59d4a97fab62cc19cec1e5b1eb4be4edc47f3f",
+    "operation": "Native embedded image pixels; no enlargement",
+    "bytes": 2866605,
+    "sha256": "acb95e1de10b4d0b69e93c662c9c3e30e15f666a41b145f15f2cab2c5f655d64",
+    "pdf_page": 56,
+    "pdf_xref": 369,
+    "width": 1900,
+    "height": 786
+  },
+  {
+    "path": "05_Plugin_References/Images/Overloud_Comp160_XT_UI_1900px.png",
+    "source_id": "PL02",
+    "source_sha256": "0a8d5bae11c167775f2bff2edb59d4a97fab62cc19cec1e5b1eb4be4edc47f3f",
+    "operation": "Native embedded image pixels; no enlargement",
+    "bytes": 1943589,
+    "sha256": "f6272329ce6d445d66fd545554cd010deb9e21df22f63b4f6f85fc3b38fb5eef",
+    "pdf_page": 57,
+    "pdf_xref": 376,
+    "width": 1900,
+    "height": 608
+  },
+  {
+    "path": "05_Plugin_References/Images/Overloud_Comp160_A_UI_1900px.png",
+    "source_id": "PL02",
+    "source_sha256": "0a8d5bae11c167775f2bff2edb59d4a97fab62cc19cec1e5b1eb4be4edc47f3f",
+    "operation": "Native embedded image pixels; no enlargement",
+    "bytes": 1987802,
+    "sha256": "4be9adeaa64a1ba9d12fefef98d524abaee1a36c9cb1e7b0e1a25935e4de3eff",
+    "pdf_page": 57,
+    "pdf_xref": 377,
+    "width": 1900,
+    "height": 608
+  },
+  {
+    "path": "05_Plugin_References/Images/NI_VC160_Manual_UI.png",
+    "source_id": "PL03",
+    "source_sha256": "a01f967513162b99cb12006d43a25a19ee26e3d9c88e0893e363625bf56ccb46",
+    "operation": "Native embedded image pixels; no enlargement",
+    "bytes": 282614,
+    "sha256": "7d5f7538d6db0988f2d951ae94b377cd3372e07626fbb268812102358a93aa3a",
+    "pdf_page": 16,
+    "pdf_xref": 44,
+    "width": 572,
+    "height": 283
+  },
+  {
+    "path": "04_Curves_and_Measurement_References/Source_Graph_Pages/XT_Hard_Knee_and_OverEasy_Transfer_Curves.png",
+    "source_id": "HW01",
+    "source_sha256": "328a16845687790d3006c14ab1919c03057d86f6d69830f9e5fd17a4730b3007",
+    "operation": "PDF page rendered at 300 dpi; source remains authoritative",
+    "bytes": 984608,
+    "sha256": "122e8ee4bf1e45648ad5ffbccebd3e516f3e0d6b4fb2fe33a0b2af84cc1b2556",
+    "pdf_page": 9,
+    "width": 2559,
+    "height": 3292
+  },
+  {
+    "path": "04_Curves_and_Measurement_References/Source_Graph_Pages/XT_Ratio_and_Negative_Compression_Curves.png",
+    "source_id": "HW01",
+    "source_sha256": "328a16845687790d3006c14ab1919c03057d86f6d69830f9e5fd17a4730b3007",
+    "operation": "PDF page rendered at 300 dpi; source remains authoritative",
+    "bytes": 722669,
+    "sha256": "02fa7421e4e0b6829d2b9e07c3894a3b3d32a035d61e77fd7565ec3e7476ffcf",
+    "pdf_page": 10,
+    "width": 2559,
+    "height": 3292
+  },
+  {
+    "path": "04_Curves_and_Measurement_References/Source_Graph_Pages/XT_External_Frequency_Weighted_Detector_Routing.png",
+    "source_id": "HW01",
+    "source_sha256": "328a16845687790d3006c14ab1919c03057d86f6d69830f9e5fd17a4730b3007",
+    "operation": "PDF page rendered at 300 dpi; source remains authoritative",
+    "bytes": 986352,
+    "sha256": "41c09105796f247d6425e9f037718ac6dab7555e6591ec1e65f6a105ec6976ed",
+    "pdf_page": 14,
+    "width": 2559,
+    "height": 3292
+  },
+  {
+    "path": "04_Curves_and_Measurement_References/Source_Graph_Pages/2150_VCA_Frequency_Response_and_Noise_vs_Gain.png",
+    "source_id": "IC01",
+    "source_sha256": "cd35375f307fdcf5eb5520dd0e7061007a80133978a1ae70de940a3408ab2573",
+    "operation": "PDF page rendered at 300 dpi; source remains authoritative",
+    "bytes": 500054,
+    "sha256": "5ccf06b690bd28073693d889d65fecbd89ececb8d10fe39b59d6769ebe8d915b",
+    "pdf_page": 3,
+    "width": 2550,
+    "height": 3300
+  },
+  {
+    "path": "04_Curves_and_Measurement_References/Source_Graph_Pages/2150_VCA_Control_Law_and_Symmetry_Distortion.png",
+    "source_id": "IC01",
+    "source_sha256": "cd35375f307fdcf5eb5520dd0e7061007a80133978a1ae70de940a3408ab2573",
+    "operation": "PDF page rendered at 300 dpi; source remains authoritative",
+    "bytes": 862222,
+    "sha256": "fc0cba6139ded926f1b2b14e13cc46b26ac6d5bd3bf9b4b8ce47916844bc6c85",
+    "pdf_page": 5,
+    "width": 2550,
+    "height": 3300
+  },
+  {
+    "path": "04_Curves_and_Measurement_References/Source_Graph_Pages/2150_VCA_Distortion_vs_Level_and_Frequency.png",
+    "source_id": "IC01",
+    "source_sha256": "cd35375f307fdcf5eb5520dd0e7061007a80133978a1ae70de940a3408ab2573",
+    "operation": "PDF page rendered at 300 dpi; source remains authoritative",
+    "bytes": 805277,
+    "sha256": "6b0444b8be7b19e1ef814fde7008b9c56a13ffb8d31e6bbf813835565384376e",
+    "pdf_page": 7,
+    "width": 2550,
+    "height": 3300
+  },
+  {
+    "path": "04_Curves_and_Measurement_References/Source_Graph_Pages/2252_Detector_Tone_Burst_Tracking_and_Frequency_Response.png",
+    "source_id": "IC02",
+    "source_sha256": "918a72667cf8ca9c4a9018c7c37cde8a254b86a0b530e25ebf875601c3ca73bb",
+    "operation": "PDF page rendered at 300 dpi; source remains authoritative",
+    "bytes": 1014260,
+    "sha256": "19d1d5e8c39937e9fa99ad7df85263b471838317780428989108d66bd08ebe24",
+    "pdf_page": 5,
+    "width": 2550,
+    "height": 3300
+  },
+  {
+    "path": "04_Curves_and_Measurement_References/Source_Graph_Pages/2181_Successor_VCA_Distortion_and_Spectrum_COMPARISON_ONLY.png",
+    "source_id": "IC04",
+    "source_sha256": "826b802a9b3bda3a27ebad9305538b8a564f13ff77db09b81d0f32b613d3f622",
+    "operation": "PDF page rendered at 300 dpi; source remains authoritative",
+    "bytes": 579809,
+    "sha256": "74a74fb8661478ce40b2bb117077a257d3f6e45015a79f84b9ceb370f68b8766",
+    "pdf_page": 6,
+    "width": 2550,
+    "height": 3300
+  },
+  {
+    "path": "00_Index/Extracted_Text/dbx_AN103_Original_2150_VCA.txt",
+    "source_id": "AN103",
+    "source_sha256": "620b17b9eb892f5eb490d3aec5f2f1f622ce28c4f4568feffcb86e5099f39a42",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 9218,
+    "sha256": "fffc7c3f3070ddb849d3d8e9092fe61c91b3b79d55518e7b882976c412760d7a",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN00A_Basic_Compressor_Limiter_Design.txt",
+    "source_id": "DN00A",
+    "source_sha256": "d67618cf8422fef193cd5dc4b38566d49750a5a526e89a7704203812c59ddeab",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 25512,
+    "sha256": "11d27518c1fcbc417b27b15045c4093c5899276c6298d9827371392758dcfaba",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN01A_Mathematics_of_Log_Based_Dynamic_Processors.txt",
+    "source_id": "DN01A",
+    "source_sha256": "a6246d70be3d9bb226b316de450ba7cbf1b21bf170539391d33fecd2f58ad5dc",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 18294,
+    "sha256": "8b1ffa6731e17d98016fd1d2430fef89f60ac7228d68ec4473ad4160237e0de7",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN05_Two_Slope_Compressor.txt",
+    "source_id": "DN05",
+    "source_sha256": "e3b371693dbc8995de8ec4c6efbcaaf51b34c61de12621e32a1bdee6f35dfa08",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 23246,
+    "sha256": "b721bd677979702ef11ccbcf8b9a11701565c5e0d3d0bee5067551fe440b43dc",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN101_Peak_Detection_Comparison.txt",
+    "source_id": "DN101",
+    "source_sha256": "47ecc2d13fccbf85c9da80e1eb2830fda68789b6b50c36c7282f40b3318dc2e4",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 2847,
+    "sha256": "e477c27d84bce27d8de65b4f10963f73e2d380cde97d32158512e5049f1f6074",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN103_Improving_VCA_Performance_I.txt",
+    "source_id": "DN103",
+    "source_sha256": "689219e769c7f979bf56946e4641d066cece0cf712e49ce8ac390f35da4442d6",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 3247,
+    "sha256": "dd1ebd2eb6865c94f239dcb2b727628f4d39fb78d940230b055e8f53e50cb1d7",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN106_VCA_Distortion_Measurement.txt",
+    "source_id": "DN106",
+    "source_sha256": "183528e3a8aa7fbdce39e5ed18562619c575914b57060820f442c481b25738e9",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 5662,
+    "sha256": "ef0650fe44c21d1a0efcac5255ff215d2e8596d46a610316f240da4bfc461647",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN107_Simple_Effective_Soft_Knee_Compressor.txt",
+    "source_id": "DN107",
+    "source_sha256": "6f14d5b5e45debcf1cf08b8fc294657dc5ec7e9770e94eb03337bbd463f6d525",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 6910,
+    "sha256": "a01d8561380977a1fbc4ceb81bda34e29e152f9329420795bc651ba746469192",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN110_VCA_Noise_Modulation_and_Stability.txt",
+    "source_id": "DN110",
+    "source_sha256": "a7dc0e2285cefa7f05eb843140816c42cabe88abc1cb3eba7fb40f2949b3ab47",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 5871,
+    "sha256": "5d4837814e7697c89ecb9e6b6515d489fe8687ad853f6a6eb20f894686aa44af",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN112_LED_Bargraph_Compression_Indicator.txt",
+    "source_id": "DN112",
+    "source_sha256": "88da4911c0b02adcf790b0b8e569b370174b5c3eaab7e3fed1baff63fea1fed8",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 4930,
+    "sha256": "27fc802bf962e591451c538b0dfa472dc3508d361a2d9e5160c30281ffe9c375",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN114_Adaptive_Attack_and_Release.txt",
+    "source_id": "DN114",
+    "source_sha256": "730996628d27fd04c16d555ce6e76489837249875294e2674a847dcd3139c85e",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 4438,
+    "sha256": "29b7b9296fd982b2719d7d0f98d9d6e5eee4b474a527a56811173da89986c3f2",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN115_Fully_Adjustable_Compressor_Limiter.txt",
+    "source_id": "DN115",
+    "source_sha256": "3568d5110f35182bbc2d06c1fd5dd6ed2c65cb03acfecb77c0da93b5cf1d545d",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 5923,
+    "sha256": "2fe0b10c233dd0214bb96962bd57a06e3fd6cbba2d1492f3ed93d60d6eb05d5e",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN116_Stereo_Control_and_RMS_Power_Summing.txt",
+    "source_id": "DN116",
+    "source_sha256": "04fdd01f6716be3d15570977a49b478e6ae9b687e7fa5b42c8ffae6614eb65c6",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 10297,
+    "sha256": "4152cc75b3931e3c942000ad8e70d904376c5023308872845931f66e9e2c2ecb",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN117_ADC_Input_Limiter_and_Nonlinear_Timing.txt",
+    "source_id": "DN117",
+    "source_sha256": "3f169f3a50a2a94c2e3dc9882dbbf1880d829300270039a8a06a7007334d525b",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 9957,
+    "sha256": "243e853bc936ce82cfca62bb9e2b6c01945c3969a78b471c86d26b7a797e8832",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN119_Wide_Ranging_dB_Meter.txt",
+    "source_id": "DN119",
+    "source_sha256": "9050a1c8d932279a5054abe1fe16713347e9f886b86e3bf5a694320242203853",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 13135,
+    "sha256": "859299c481cb2c98a68a47e2a27aa632663ec7ec17b014bcab3e1688f1753cc1",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_DN121_VCA_Symmetry_Auto_Trim.txt",
+    "source_id": "DN121",
+    "source_sha256": "9685eb024828f68f4b27f5b5687c419ddc8a3cc9607e591f262af893e98c5fb6",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 12141,
+    "sha256": "23d5a9bf9b279af401bf2e84e270ccf585077cd255f734752ed8632fc32c7154",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/Giannoulis_Massberg_Reiss_2012_Compressor_Design_Tutorial.txt",
+    "source_id": "DSP01",
+    "source_sha256": "dd65e1f91e8fafd855cc994246bfe957d671254a271b83ba8fab2239f7b23b44",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 44670,
+    "sha256": "17ac30b947ce26854b0067a7a2d09c6f807b52c02282520306c35ec027a4f16c",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/Floru_1995_AES4054_RMS_Compressors_Limiters_Timing.txt",
+    "source_id": "DSP02",
+    "source_sha256": "3706c28299abc6c1314f5f03bb3392fdfacda09004d210a10f55a322c6904e3a",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 59425,
+    "sha256": "40ae87b36dc3af10fe5f5330684dea1280c98a158ab76510e6734adff9078bd7",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/Floru_1998_AES4703_RMS_Feedback_Compressor_Timing.txt",
+    "source_id": "DSP03",
+    "source_sha256": "b67c50827bf60dc9ffa28d56c1f78c8cc05bde8b3db73f1df7e4aef7e4fbea2b",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 55497,
+    "sha256": "89d25630099ae98250c21b099e8b155aefdb4149443440e13c64a7caa46a56e6",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/Wright_Valimaki_2022_Grey_Box_Compression.txt",
+    "source_id": "DSP04",
+    "source_sha256": "7edd8cb4dddda8bbf77dac4eb6b78af0ae64c6dd01211b380eb0d25a22de941e",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 45593,
+    "sha256": "881d23083e779ebc79dea830a04b38f60b999351f8f4b490ff4c9aa6d1af05e0",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/Hebert_2005_AES6337_Flexible_Compander_IC.txt",
+    "source_id": "DSP05",
+    "source_sha256": "5a09a2514ed8193666d2ac28b8504e9ef092890cfd70881fb4e88b4b667db7b6",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 38161,
+    "sha256": "8ffd75212af57ac8a27dd7cd886db1843430e6182787904fb75a9a236bf4056a",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/Hebert_1995_AES4055_Improved_Monolithic_VCA.txt",
+    "source_id": "DSP06",
+    "source_sha256": "c30bd5b8f9f85557c5f5edd78bf665488601fd6e6e6ca04f64f6c26044779f24",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 55633,
+    "sha256": "4a0931a996f54bccca8ac841fcc2291d6c7513a71ac3ab3e0c98482aa0349fae",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/dbx_160X_XT_Service_Manual.txt",
+    "source_id": "HW01",
+    "source_sha256": "328a16845687790d3006c14ab1919c03057d86f6d69830f9e5fd17a4730b3007",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 69163,
+    "sha256": "bdb84a55f16b027e86c5e827f7b9c4be27be20510a850beac4469d8fab45d952",
+    "pdf_pages_without_substantial_text": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      41
+    ]
+  },
+  {
+    "path": "00_Index/Extracted_Text/dbx_160X_Schematic.txt",
+    "source_id": "HW03",
+    "source_sha256": "a9efd14a153da0456bb8853bf485e659c63204eecd0919e2c830c7c14cb107ca",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 202,
+    "sha256": "f7e70adaf8e761e5b7f58535a211c457c3d6ba2378e32d56278b69b7e520d59d",
+    "pdf_pages_without_substantial_text": [
+      1
+    ]
+  },
+  {
+    "path": "00_Index/Extracted_Text/dbx_160A_CutSheet.txt",
+    "source_id": "HW05",
+    "source_sha256": "5e5b8549702c1805a56261d1ec0acb86f1ba4a2eda2ca79a31a0a1e05acd70c7",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 9566,
+    "sha256": "df500adf030ef603d09cb866ed39c2c27e18180ac3648b596159fa77e01ea203",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/dbx_160A_Manual.txt",
+    "source_id": "HW06",
+    "source_sha256": "c9aa9dd740f78dce5818c5ccdc28095249eb54b9638a3a2c59d3ad414507589a",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 62199,
+    "sha256": "fbf4d14a9878150530bd82cd7476e5e78b63f58d0c5d0443b32129c196deae32",
+    "pdf_pages_without_substantial_text": [
+      4
+    ]
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_2150_Series_VCA_Datasheet.txt",
+    "source_id": "IC01",
+    "source_sha256": "cd35375f307fdcf5eb5520dd0e7061007a80133978a1ae70de940a3408ab2573",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 32467,
+    "sha256": "76f73726213980f1c7130d7b2349b8678e625f33a1f7856dcc026bc9267b6d77",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_2252_RMS_Detector_Datasheet.txt",
+    "source_id": "IC02",
+    "source_sha256": "918a72667cf8ca9c4a9018c7c37cde8a254b86a0b530e25ebf875601c3ca73bb",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 38879,
+    "sha256": "94fe57b0185526b28d1862ac3e2e0b3ca6cadd9d41db353e68dc0dcf7dfa7baf",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_2180_VCA_Datasheet_Related_Successor.txt",
+    "source_id": "IC03",
+    "source_sha256": "79f4e7cea383fe0e6378ab0d386c720dfdc4e0c98bfdbc68f25f2914d7ff24f3",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 30835,
+    "sha256": "ed06f13c0873f4ef0e5e51e016d8dcd70d6b4b642f557c7deca6d19d50cfbbd6",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/THAT_2181_VCA_Datasheet_Related_Successor.txt",
+    "source_id": "IC04",
+    "source_sha256": "826b802a9b3bda3a27ebad9305538b8a564f13ff77db09b81d0f32b613d3f622",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 34152,
+    "sha256": "29424a6e3b3cb835462868941b7b41a39211a585ddf3181c9ff408f5d35adf9b",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/DDMF_Plugindoctor_Manual.txt",
+    "source_id": "MET01",
+    "source_sha256": "b456144fe7a649d51bc6218d0b448405d9c5e7c2a7afe580f597e82dee1b35d7",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 23380,
+    "sha256": "6a82639edc6e00c385b913324360f627ac6d4759252342a1a56ce4e844da8ee0",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/US3681618_Blackmer_RMS_Detector.txt",
+    "source_id": "PAT01",
+    "source_sha256": "96f948c816e2ec9adabde760447172896bb0f21dc884f65bf4f4718bb5832822",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 27227,
+    "sha256": "6e0d07383c434c16d0241fb29b09715d87acb2ed316b523ee80e2df33944fc49",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/US3714462_Blackmer_Multiplier_VCA.txt",
+    "source_id": "PAT02",
+    "source_sha256": "ce0e9849e7b4eca2ae99abfc0325001edb1ebe52ad1feaab27455aee1840bb63",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 21874,
+    "sha256": "d8fa9806d91986a6f8cba23a33dd8d4d73c9080919cdc110433a3fd80ac21402",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/US3789143_Blackmer_Log_RMS_Compander.txt",
+    "source_id": "PAT03",
+    "source_sha256": "a3fb01e0637dcb4a83e61cb009f0ea3e5e74a73dd784e677235418fd3e77d53a",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 41163,
+    "sha256": "d73e88d7907e841e11a284d81b601b970bbff9e72b0ea7dbca7156bc16a0c8bd",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/Waves_dbx160_User_Guide.txt",
+    "source_id": "PL01",
+    "source_sha256": "a9def1272599174bb0645b0b8e667b63c9bbf538dca0985d0275d99489ffc3ff",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 11073,
+    "sha256": "72c9356f52849274041c1637f9cc5680eb40624bab5ae22159527042a12bbc51",
+    "pdf_pages_without_substantial_text": []
+  },
+  {
+    "path": "00_Index/Extracted_Text/Overloud_GEMs_User_Manual.txt",
+    "source_id": "PL02",
+    "source_sha256": "0a8d5bae11c167775f2bff2edb59d4a97fab62cc19cec1e5b1eb4be4edc47f3f",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 103360,
+    "sha256": "93e2458443cf182d29dbcff796d7b0715f92046e2f3551c34bec396e19f063fd",
+    "pdf_pages_without_substantial_text": [
+      3
+    ]
+  },
+  {
+    "path": "00_Index/Extracted_Text/NI_Vintage_Compressors_VC160_Manual.txt",
+    "source_id": "PL03",
+    "source_sha256": "a01f967513162b99cb12006d43a25a19ee26e3d9c88e0893e363625bf56ccb46",
+    "operation": "Extracted existing PDF text layer; uncorrected OCR where present",
+    "bytes": 32947,
+    "sha256": "7764b76324af478eb8d6b936eb008094740b0258a237cf183835c7e2c220c26f",
+    "pdf_pages_without_substantial_text": [
+      1
+    ]
+  }
+]

@@ -1,0 +1,616 @@
+[
+  {
+    "id": "HW01",
+    "title": "dbx Model 160X/XT service manual (preliminary)",
+    "url": "https://schematicsforfree.com/files/Audio/Products/Professional%20Audio/D/dbx/dbx%20160X-XT%20Compressor-Limiter%20SM.pdf",
+    "path": "01_Hardware_Service/dbx_160X_XT_Service_Manual.pdf",
+    "model_scope": "160X/XT",
+    "evidence": "Manufacturer-authored document, archive-hosted",
+    "purpose": "Full service manual including 1990 XT factory test and calibration procedure; earlier mirror scan omitted final sections"
+  },
+  {
+    "id": "HW02",
+    "title": "dbx 160XT schematic archive",
+    "url": "https://www.jabse.com/Ly4gVmFyaW91cy9TTSBzY2VuYS9EQlgvMTYwWFQgU2NoZW1hdGljLnppcA",
+    "path": "01_Hardware_Service/Original_Archives/dbx_160XT_Schematics.zip",
+    "model_scope": "Archive labeled 160XT; overlapping legacy scans, including a 160X-marked sheet",
+    "evidence": "Manufacturer-authored schematics, archive-hosted",
+    "purpose": "Audio/control circuit and assembly scans; pages 1/7 and 3/5 overlap, page 6 is marked 160X; verify revision against hardware",
+    "resolve": "jabse"
+  },
+  {
+    "id": "HW03",
+    "title": "dbx 160X schematic for comparison",
+    "url": "https://www.jabse.com/Ly4gVmFyaW91cy9TTSBzY2VuYS9EQlgvMTYweCUyMFNjaGVtYXRpYy5wZGY",
+    "path": "01_Hardware_Service/Related_Models/dbx_160X_Schematic.pdf",
+    "model_scope": "160X - comparison only",
+    "evidence": "Manufacturer-authored schematic, archive-hosted",
+    "purpose": "Compare X versus XT; do not substitute blindly",
+    "resolve": "jabse"
+  },
+  {
+    "id": "HW04",
+    "title": "dbx 160XT audio/control schematic alternate scan",
+    "url": "https://audiovias.com/descarga/272/dbx-manuales/7448/dbx-160xt-esquema-page2.pdf",
+    "path": "01_Hardware_Service/dbx_160XT_Audio_Control_Schematic_Alternate_Scan.pdf",
+    "model_scope": "160XT",
+    "evidence": "Manufacturer-authored drawing, archive-hosted",
+    "purpose": "Alternate legibility for fine component labels"
+  },
+  {
+    "id": "HW05",
+    "title": "dbx 160A cut sheet",
+    "url": "https://adn.harmanpro.com/product_documents/documents/722_1602283171/dbx160A_CutSheet_original.pdf",
+    "path": "01_Hardware_Service/Related_Models/dbx_160A_CutSheet.pdf",
+    "model_scope": "160A - comparison only",
+    "evidence": "Manufacturer",
+    "purpose": "Family evolution and comparison specifications"
+  },
+  {
+    "id": "HW06",
+    "title": "dbx 160A manual",
+    "url": "https://adn.harmanpro.com/product_documents/documents/721_1602283220/dbx160A_Manual_18-2040V-E_original.pdf",
+    "path": "01_Hardware_Service/Related_Models/dbx_160A_Manual.pdf",
+    "model_scope": "160A - comparison only",
+    "evidence": "Manufacturer",
+    "purpose": "Link compatibility warning, later revision features"
+  },
+  {
+    "id": "IC01",
+    "title": "THAT 2150 Series VCA Datasheet",
+    "url": "https://thatcorp.com/datashts/THAT_2150-Series_Datasheet.pdf",
+    "path": "02_Components_and_Analog_Theory/Datasheets/THAT_2150_Series_VCA_Datasheet.pdf",
+    "model_scope": "Legacy VCA/RMS family; confirm installed parts",
+    "evidence": "Component manufacturer",
+    "purpose": "Device equations, control scaling, distortion, noise, timing and bandwidth graphs"
+  },
+  {
+    "id": "IC02",
+    "title": "THAT 2252 RMS Detector Datasheet",
+    "url": "https://thatcorp.com/datashts/THAT_2252_Datasheet.pdf",
+    "path": "02_Components_and_Analog_Theory/Datasheets/THAT_2252_RMS_Detector_Datasheet.pdf",
+    "model_scope": "Legacy VCA/RMS family; confirm installed parts",
+    "evidence": "Component manufacturer",
+    "purpose": "Device equations, control scaling, distortion, noise, timing and bandwidth graphs"
+  },
+  {
+    "id": "IC03",
+    "title": "THAT 2180 VCA Datasheet Related Successor",
+    "url": "https://thatcorp.com/datashts/THAT_2180-Series_Datasheet.pdf",
+    "path": "02_Components_and_Analog_Theory/Datasheets/THAT_2180_VCA_Datasheet_Related_Successor.pdf",
+    "model_scope": "Related successor; not proof of XT parts",
+    "evidence": "Component manufacturer",
+    "purpose": "Device equations, control scaling, distortion, noise, timing and bandwidth graphs"
+  },
+  {
+    "id": "IC04",
+    "title": "THAT 2181 VCA Datasheet Related Successor",
+    "url": "https://thatcorp.com/datashts/THAT_2181-Series_Datasheet.pdf",
+    "path": "02_Components_and_Analog_Theory/Datasheets/THAT_2181_VCA_Datasheet_Related_Successor.pdf",
+    "model_scope": "Related successor; not proof of XT parts",
+    "evidence": "Component manufacturer",
+    "purpose": "Device equations, control scaling, distortion, noise, timing and bandwidth graphs"
+  },
+  {
+    "id": "DN00A",
+    "title": "THAT DN00A Basic Compressor Limiter Design",
+    "url": "https://thatcorp.com/datashts/dn00A.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN00A_Basic_Compressor_Limiter_Design.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN01A",
+    "title": "THAT DN01A Mathematics of Log Based Dynamic Processors",
+    "url": "https://thatcorp.com/datashts/dn01A.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN01A_Mathematics_of_Log_Based_Dynamic_Processors.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN05",
+    "title": "THAT DN05 Two Slope Compressor",
+    "url": "https://thatcorp.com/datashts/dn05.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN05_Two_Slope_Compressor.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN101",
+    "title": "THAT DN101 Peak Detection Comparison",
+    "url": "https://thatcorp.com/datashts/dn101.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN101_Peak_Detection_Comparison.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN103",
+    "title": "THAT DN103 Improving VCA Performance I",
+    "url": "https://thatcorp.com/datashts/dn103.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN103_Improving_VCA_Performance_I.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN106",
+    "title": "THAT DN106 VCA Distortion Measurement",
+    "url": "https://thatcorp.com/datashts/dn106.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN106_VCA_Distortion_Measurement.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN107",
+    "title": "THAT DN107 Simple Effective Soft Knee Compressor",
+    "url": "https://thatcorp.com/datashts/dn107.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN107_Simple_Effective_Soft_Knee_Compressor.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN110",
+    "title": "THAT DN110 VCA Noise Modulation and Stability",
+    "url": "https://thatcorp.com/datashts/dn110.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN110_VCA_Noise_Modulation_and_Stability.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN112",
+    "title": "THAT DN112 LED Bargraph Compression Indicator",
+    "url": "https://thatcorp.com/datashts/dn112.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN112_LED_Bargraph_Compression_Indicator.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN114",
+    "title": "THAT DN114 Adaptive Attack and Release",
+    "url": "https://thatcorp.com/datashts/dn114.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN114_Adaptive_Attack_and_Release.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN115",
+    "title": "THAT DN115 Fully Adjustable Compressor Limiter",
+    "url": "https://thatcorp.com/datashts/dn115.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN115_Fully_Adjustable_Compressor_Limiter.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN116",
+    "title": "THAT DN116 Stereo Control and RMS Power Summing",
+    "url": "https://thatcorp.com/datashts/dn116.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN116_Stereo_Control_and_RMS_Power_Summing.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN117",
+    "title": "THAT DN117 ADC Input Limiter and Nonlinear Timing",
+    "url": "https://thatcorp.com/datashts/dn117.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN117_ADC_Input_Limiter_and_Nonlinear_Timing.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN119",
+    "title": "THAT DN119 Wide Ranging dB Meter",
+    "url": "https://thatcorp.com/datashts/dn119.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN119_Wide_Ranging_dB_Meter.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DN121",
+    "title": "THAT DN121 VCA Symmetry Auto Trim",
+    "url": "https://thatcorp.com/datashts/dn121.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/THAT_DN121_VCA_Symmetry_Auto_Trim.pdf",
+    "model_scope": "General related circuitry, not the XT schematic",
+    "evidence": "Component manufacturer",
+    "purpose": "Supporting analog design reference; verify applicable behavior against XT"
+  },
+  {
+    "id": "DSP01",
+    "title": "Giannoulis Massberg Reiss 2012: Digital Dynamic Range Compressor Design",
+    "url": "https://joshreiss.github.io/documents/2012/GiannoulisMassbergReiss-dynamicrangecompression-JAES2012.pdf",
+    "path": "03_DSP_Papers/Giannoulis_Massberg_Reiss_2012_Compressor_Design_Tutorial.pdf",
+    "model_scope": "General compressor DSP",
+    "evidence": "Author or conference-hosted paper",
+    "purpose": "Detector dynamics, gain computation, architecture and model validation"
+  },
+  {
+    "id": "DSP02",
+    "title": "Floru 1995 AES4054: RMS compressor and limiter timing",
+    "url": "https://thatcorp.com/datashts/AES4054_Attack_and_Release_Time_Constants_II.pdf",
+    "path": "03_DSP_Papers/Floru_1995_AES4054_RMS_Compressors_Limiters_Timing.pdf",
+    "model_scope": "General RMS/feedforward theory",
+    "evidence": "Author or conference-hosted paper",
+    "purpose": "Detector dynamics, gain computation, architecture and model validation"
+  },
+  {
+    "id": "DSP03",
+    "title": "Floru 1998 AES4703: RMS feedback compressor timing",
+    "url": "https://thatcorp.com/datashts/AES4703_Attack_and_Release_Time_Constants_I.pdf",
+    "path": "03_DSP_Papers/Floru_1998_AES4703_RMS_Feedback_Compressor_Timing.pdf",
+    "model_scope": "General feedback comparison",
+    "evidence": "Author or conference-hosted paper",
+    "purpose": "Detector dynamics, gain computation, architecture and model validation"
+  },
+  {
+    "id": "DSP04",
+    "title": "Wright Valimaki 2022: Grey-Box Modelling of Dynamic Range Compression",
+    "url": "https://www.dafx.de/paper-archive/2022/papers/DAFx20in22_paper_35.pdf",
+    "path": "03_DSP_Papers/Wright_Valimaki_2022_Grey_Box_Compression.pdf",
+    "model_scope": "General model identification",
+    "evidence": "Author or conference-hosted paper",
+    "purpose": "Detector dynamics, gain computation, architecture and model validation"
+  },
+  {
+    "id": "DSP05",
+    "title": "Hebert 2005 AES6337: Flexible Compander IC",
+    "url": "https://thatcorp.com/datashts/AES6337_Flexible_Compander_IC.pdf",
+    "path": "03_DSP_Papers/Hebert_2005_AES6337_Flexible_Compander_IC.pdf",
+    "model_scope": "Related analog theory",
+    "evidence": "Author or conference-hosted paper",
+    "purpose": "Detector dynamics, gain computation, architecture and model validation"
+  },
+  {
+    "id": "PL01",
+    "title": "Waves dbx160 user guide",
+    "url": "https://assets.wavescdn.com/pdf/plugins/dbx-160.pdf",
+    "path": "05_Plugin_References/Manuals/Waves_dbx160_User_Guide.pdf",
+    "model_scope": "Original 160/VU family, not XT",
+    "evidence": "Plugin vendor",
+    "purpose": "Reference UI, calibration, controls and added stereo features"
+  },
+  {
+    "id": "PL02",
+    "title": "Overloud GEMs user manual (includes Comp160)",
+    "url": "https://s3.amazonaws.com/Overloud/GEMS/Overloud+Gems+-+User+Manual.pdf",
+    "path": "05_Plugin_References/Manuals/Overloud_GEMs_User_Manual.pdf",
+    "model_scope": "Includes explicit XT model",
+    "evidence": "Plugin vendor",
+    "purpose": "XT comparison controls and vendor extensions"
+  },
+  {
+    "id": "IMG_OL_XT_Main",
+    "title": "Overloud Comp160 XT Main",
+    "url": "https://www.overloud.com/sites/almateq/files/inline-images/comp160xt.jpg",
+    "path": "05_Plugin_References/Images/Overloud_Comp160_XT_Main.jpg",
+    "model_scope": "Explicit XT model",
+    "evidence": "Plugin vendor original image",
+    "purpose": "Original available image pixels; no AI enhancement or upscaling"
+  },
+  {
+    "id": "IMG_OL_VU_Comparison",
+    "title": "Overloud Comp160 VU Comparison",
+    "url": "https://www.overloud.com/sites/almateq/files/inline-images/comp160vu.jpg",
+    "path": "05_Plugin_References/Images/Overloud_Comp160_VU_Comparison.jpg",
+    "model_scope": "Comp160 UI/family comparison",
+    "evidence": "Plugin vendor original image",
+    "purpose": "Original available image pixels; no AI enhancement or upscaling"
+  },
+  {
+    "id": "IMG_OL_A_Comparison",
+    "title": "Overloud Comp160 A Comparison",
+    "url": "https://www.overloud.com/sites/almateq/files/inline-images/comp160a.jpg",
+    "path": "05_Plugin_References/Images/Overloud_Comp160_A_Comparison.jpg",
+    "model_scope": "Comp160 UI/family comparison",
+    "evidence": "Plugin vendor original image",
+    "purpose": "Original available image pixels; no AI enhancement or upscaling"
+  },
+  {
+    "id": "IMG_OL_Banner",
+    "title": "Overloud Comp160 Banner",
+    "url": "https://www.overloud.com/sites/almateq/files/2026-02/Comp-160-h-banner.jpg",
+    "path": "05_Plugin_References/Images/Overloud_Comp160_Banner.jpg",
+    "model_scope": "Comp160 UI/family comparison",
+    "evidence": "Plugin vendor original image",
+    "purpose": "Original available image pixels; no AI enhancement or upscaling"
+  },
+  {
+    "id": "IMG_OL_Mid_Side",
+    "title": "Overloud Comp160 Mid Side",
+    "url": "https://www.overloud.com/sites/almateq/files/2026-02/comp160-mid-side.png",
+    "path": "05_Plugin_References/Images/Overloud_Comp160_Mid_Side.png",
+    "model_scope": "Comp160 UI/family comparison",
+    "evidence": "Plugin vendor original image",
+    "purpose": "Original available image pixels; no AI enhancement or upscaling"
+  },
+  {
+    "id": "IMG_OL_Sidechain_Adjustments",
+    "title": "Overloud Comp160 Sidechain Adjustments",
+    "url": "https://www.overloud.com/sites/almateq/files/2026-02/comp160-sidechain.png",
+    "path": "05_Plugin_References/Images/Overloud_Comp160_Sidechain_Adjustments.png",
+    "model_scope": "Comp160 UI/family comparison",
+    "evidence": "Plugin vendor original image",
+    "purpose": "Original available image pixels; no AI enhancement or upscaling"
+  },
+  {
+    "id": "IMG_OL_Parallel_Compression",
+    "title": "Overloud Comp160 Parallel Compression",
+    "url": "https://www.overloud.com/sites/almateq/files/2026-02/comp160-parallel.png",
+    "path": "05_Plugin_References/Images/Overloud_Comp160_Parallel_Compression.png",
+    "model_scope": "Comp160 UI/family comparison",
+    "evidence": "Plugin vendor original image",
+    "purpose": "Original available image pixels; no AI enhancement or upscaling"
+  },
+  {
+    "id": "IMG_Waves",
+    "title": "Waves dbx160 original UI image",
+    "url": "https://media.wavescdn.com/images/products/plugins/hero/dbx-160-compressor-limiter.png?fit=max",
+    "path": "05_Plugin_References/Images/Waves_dbx160_Hero.png",
+    "model_scope": "160/VU, not XT",
+    "evidence": "Plugin vendor original image",
+    "purpose": "High quality UI reference"
+  },
+  {
+    "id": "IMG_UA",
+    "title": "Universal Audio dbx160 original gallery image",
+    "url": "https://www.uaudio.com/cdn/shop/files/dbx_160_compressor_limiter_gallery_1.png?v=1742502468",
+    "path": "05_Plugin_References/Images/Universal_Audio_dbx160_Gallery.png",
+    "model_scope": "160/VU, not XT",
+    "evidence": "Plugin vendor original image",
+    "purpose": "Original image without CDN downsampling"
+  },
+  {
+    "id": "WEB01",
+    "title": "Overloud Comp160",
+    "url": "https://www.overloud.com/products/comp160",
+    "path": "00_Index/Source_Pages/Overloud_Comp160.html",
+    "model_scope": "Explicit XT, VU, A plugin models",
+    "evidence": "Plugin vendor",
+    "purpose": "Transformer in vendor reference XT, features, visual source"
+  },
+  {
+    "id": "WEB02",
+    "title": "Waves dbx160",
+    "url": "https://www.waves.com/plugins/dbx-160-compressor-limiter",
+    "path": "00_Index/Source_Pages/Waves_dbx160.html",
+    "model_scope": "160/VU, not XT",
+    "evidence": "Plugin vendor",
+    "purpose": "Plugin features and original UI image source"
+  },
+  {
+    "id": "WEB03",
+    "title": "Universal Audio dbx160",
+    "url": "https://www.uaudio.com/products/dbx-160",
+    "path": "00_Index/Source_Pages/Universal_Audio_dbx160.html",
+    "model_scope": "160/VU, not XT",
+    "evidence": "Plugin vendor",
+    "purpose": "Product/UI reference"
+  },
+  {
+    "id": "WEB04",
+    "title": "Universal Audio dbx160 Online Manual",
+    "url": "https://help.uaudio.com/hc/en-us/articles/18741620620692-dbx-160-Compressor-Manual",
+    "path": "00_Index/Source_Pages/Universal_Audio_dbx160_Online_Manual.html",
+    "model_scope": "160/VU, not XT",
+    "evidence": "Plugin vendor",
+    "purpose": "Full online manual and sidechain-filter distinction"
+  },
+  {
+    "id": "WEB05",
+    "title": "THAT Design Notes Index",
+    "url": "https://thatcorp.com/design-notes/",
+    "path": "00_Index/Source_Pages/THAT_Design_Notes_Index.html",
+    "model_scope": "General analog theory",
+    "evidence": "Component manufacturer",
+    "purpose": "Design-note discovery and scope"
+  },
+  {
+    "id": "WEB06",
+    "title": "THAT Archived Datasheets Index",
+    "url": "https://thatcorp.com/archived-datasheets/",
+    "path": "00_Index/Source_Pages/THAT_Archived_Datasheets_Index.html",
+    "model_scope": "Legacy components",
+    "evidence": "Component manufacturer",
+    "purpose": "Original 2150 and 2252 data source"
+  },
+  {
+    "id": "WEB07",
+    "title": "dbx 160XT Product",
+    "url": "https://dbxpro.com/en-US/products/160xt",
+    "path": "00_Index/Source_Pages/dbx_160XT_Product.html",
+    "model_scope": "160XT",
+    "evidence": "Hardware manufacturer",
+    "purpose": "Legacy product reference; access may be blocked"
+  },
+  {
+    "id": "WEB08",
+    "title": "dbx Schematic Downloads",
+    "url": "https://dbxpro.com/en-US/downloads/en/schematic",
+    "path": "00_Index/Source_Pages/dbx_Schematic_Downloads.html",
+    "model_scope": "Includes 160XT",
+    "evidence": "Hardware manufacturer",
+    "purpose": "Official schematic index; access may be blocked"
+  },
+  {
+    "id": "WEB09",
+    "title": "dbx Service Downloads",
+    "url": "https://dbxpro.com/en-US/downloads/en/service_manual",
+    "path": "00_Index/Source_Pages/dbx_Service_Downloads.html",
+    "model_scope": "Family archive",
+    "evidence": "Hardware manufacturer",
+    "purpose": "Service index; access may be blocked"
+  },
+  {
+    "id": "WEB10",
+    "title": "AES Compressor Design Bibliography",
+    "url": "https://aes.org/publications/elibrary/elibrary-page/?id=16354",
+    "path": "00_Index/Source_Pages/AES_Compressor_Design_Bibliography.html",
+    "model_scope": "General compressor DSP",
+    "evidence": "Publisher",
+    "purpose": "Publication date/bibliography"
+  },
+  {
+    "id": "WEB11",
+    "title": "THAT Improved Monolithic VCA",
+    "url": "https://thatcorp.com/an-improved-monolithic-voltage-controlled-amplifier/",
+    "path": "00_Index/Source_Pages/THAT_Improved_Monolithic_VCA.html",
+    "model_scope": "VCA theory, not XT-specific",
+    "evidence": "Author employer",
+    "purpose": "Sources of nonideal VCA behavior"
+  },
+  {
+    "id": "WEB12",
+    "title": "JUCE Oversampling Documentation",
+    "url": "https://docs.juce.com/master/classjuce_1_1dsp_1_1Oversampling.html",
+    "path": "00_Index/Source_Pages/JUCE_Oversampling_Documentation.html",
+    "model_scope": "Future implementation option",
+    "evidence": "Framework author",
+    "purpose": "Oversampling and latency; no framework choice assumed"
+  },
+  {
+    "id": "WEB13",
+    "title": "DAFx Grey Box Paper",
+    "url": "https://www.dafx.de/paper-archive/details.php?id=Oz5HVaU0tKAjfD3ivOlv5g",
+    "path": "00_Index/Source_Pages/DAFx_Grey_Box_Paper.html",
+    "model_scope": "General system identification",
+    "evidence": "Conference publisher",
+    "purpose": "Paper provenance"
+  },
+  {
+    "id": "WEB14",
+    "title": "Jabse dbx Archive Index",
+    "url": "https://www.jabse.com/Ly4gVmFyaW91cy9TTSBzY2VuYS9EQlg",
+    "path": "00_Index/Source_Pages/Jabse_dbx_Archive_Index.html",
+    "model_scope": "Legacy dbx hardware archive",
+    "evidence": "Archive hosting manufacturer documents",
+    "purpose": "Provenance for scans"
+  },
+  {
+    "id": "DSP06",
+    "title": "Hebert 1995 AES4055: An Improved Monolithic VCA",
+    "url": "https://thatcorp.com/datashts/AES4055_An_Improved_Monolithic_VCA.pdf",
+    "path": "03_DSP_Papers/Hebert_1995_AES4055_Improved_Monolithic_VCA.pdf",
+    "model_scope": "Related successor VCA theory, not XT-specific",
+    "evidence": "Author employer-hosted paper",
+    "purpose": "Distortion, noise modulation, offset versus gain and VCA nonidealities"
+  },
+  {
+    "id": "MET01",
+    "title": "DDMF Plugindoctor manual",
+    "url": "https://ddmf.eu/pdfmanuals/PlugindoctorManual.pdf",
+    "path": "04_Curves_and_Measurement_References/DDMF_Plugindoctor_Manual.pdf",
+    "model_scope": "General measurement method",
+    "evidence": "Tool developer",
+    "purpose": "Transfer curves, dynamics, linear response and harmonic analysis"
+  },
+  {
+    "id": "MET02",
+    "title": "REW signal generator manual",
+    "url": "https://www.roomeqwizard.com/help/help_en-GB/html/siggen.html",
+    "path": "04_Curves_and_Measurement_References/REW_Signal_Generator.html",
+    "model_scope": "General measurement method",
+    "evidence": "Tool developer",
+    "purpose": "Calibrated tones, bursts, noise and IMD signals"
+  },
+  {
+    "id": "MET03",
+    "title": "REW RTA and stepped sine measurement manual",
+    "url": "https://www.roomeqwizard.com/help/help_en-GB/html/spectrum.html",
+    "path": "04_Curves_and_Measurement_References/REW_Stepped_Sine.html",
+    "model_scope": "General measurement method",
+    "evidence": "Tool developer",
+    "purpose": "Level/frequency tests, settling and distortion sweeps"
+  },
+  {
+    "id": "HWIMG01",
+    "title": "dbx official 160XT front panel image",
+    "url": "https://adn.harmanpro.com/product_attachments/product_attachments/570_1728148706/dbx_160XT_01_x_large_2x.webp",
+    "path": "06_Hardware_Visuals/dbx_160XT_Official_Front.webp",
+    "model_scope": "160XT",
+    "evidence": "Hardware manufacturer original image",
+    "purpose": "Front-panel labeling and layout"
+  },
+  {
+    "id": "WEB15",
+    "title": "160XT factory test procedure index",
+    "url": "https://www.manualslib.com/manual/4544417/Dbx-160xt.html",
+    "path": "00_Index/Source_Pages/dbx_160XT_Factory_Test_Procedure_Index.html",
+    "model_scope": "160XT",
+    "evidence": "Archive hosting manufacturer test procedure",
+    "purpose": "Cross-check Revision 02 dated 1990-08-15"
+  },
+  {
+    "id": "WEB16",
+    "title": "160X XT complete service manual mirror",
+    "url": "https://www.manualslib.com/manual/1890879/Dbx-160x.html",
+    "path": "00_Index/Source_Pages/dbx_160X_XT_Service_Manual_Index.html",
+    "model_scope": "160X/XT",
+    "evidence": "Archive hosting manufacturer service manual",
+    "purpose": "Cross-check full 41-page service manual"
+  },
+  {
+    "id": "PAT01",
+    "title": "Blackmer RMS circuits with bipolar logarithmic converter",
+    "url": "https://patentimages.storage.googleapis.com/64/d8/b4/fda9584a44805f/US3681618.pdf",
+    "path": "02_Components_and_Analog_Theory/Patents/US3681618_Blackmer_RMS_Detector.pdf",
+    "model_scope": "Historical RMS detector background",
+    "evidence": "Patent publication",
+    "purpose": "Foundational detector architecture; not exact XT circuit"
+  },
+  {
+    "id": "PAT02",
+    "title": "Blackmer multiplier circuits",
+    "url": "https://patentimages.storage.googleapis.com/a5/31/ce/937fc563f24d21/US3714462.pdf",
+    "path": "02_Components_and_Analog_Theory/Patents/US3714462_Blackmer_Multiplier_VCA.pdf",
+    "model_scope": "Historical VCA background",
+    "evidence": "Patent publication",
+    "purpose": "Foundational gain-cell architecture"
+  },
+  {
+    "id": "PAT03",
+    "title": "Blackmer logarithmic RMS compander",
+    "url": "https://patentimages.storage.googleapis.com/c9/c3/28/94d62d7cd0dbc9/US3789143.pdf",
+    "path": "02_Components_and_Analog_Theory/Patents/US3789143_Blackmer_Log_RMS_Compander.pdf",
+    "model_scope": "Historical dynamics background",
+    "evidence": "Patent publication",
+    "purpose": "Detector and gain cell interaction"
+  },
+  {
+    "id": "AN103",
+    "title": "dbx Application Note 103: 2150 VCA",
+    "url": "https://gyraf.dk/schematics/dbx2150vca_AN.pdf",
+    "path": "02_Components_and_Analog_Theory/Design_Notes/dbx_AN103_Original_2150_VCA.pdf",
+    "model_scope": "Legacy 2150 VCA family",
+    "evidence": "Manufacturer-authored note, archive-hosted",
+    "purpose": "Original VCA application guidance"
+  },
+  {
+    "id": "PL03",
+    "title": "Native Instruments Vintage Compressors manual",
+    "url": "https://www.native-instruments.com/fileadmin/ni_media/downloads/manuals/VINTAGE_COMPRESSORS_Manual_English.pdf",
+    "path": "05_Plugin_References/Manuals/NI_Vintage_Compressors_VC160_Manual.pdf",
+    "model_scope": "VC160 original 160 family, not XT",
+    "evidence": "Plugin vendor",
+    "purpose": "Additional UI/workflow comparator; VC160 section"
+  },
+  {
+    "id": "IMG_Waves_UI",
+    "title": "Waves dbx160 flat UI image",
+    "url": "https://media.wavescdn.com/images/products/plugins/max/dbx-160-compressor-limiter.png",
+    "path": "05_Plugin_References/Images/Waves_dbx160_Flat_UI.png",
+    "model_scope": "160/VU, not XT",
+    "evidence": "Plugin vendor original image",
+    "purpose": "UI image without hero scene or CDN size reduction"
+  }
+]
