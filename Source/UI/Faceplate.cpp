@@ -167,31 +167,8 @@ void Faceplate::drawLegend (juce::Graphics& g, const juce::String& text, float x
 //==============================================================================
 void Faceplate::drawLogo (juce::Graphics& g) const
 {
-    g.setColour (ink);
-
-    const auto bowl = [&] (float cx)
-    {
-        juce::Path ring;
-        ring.addEllipse (cx - 30.0f, 121.0f, 60.0f, 60.0f);
-        ring.addEllipse (cx - 11.0f, 140.0f, 22.0f, 22.0f);
-        ring.setUsingNonZeroWinding (false);
-        g.fillPath (ring);
-    };
-
-    // d
-    bowl (397.0f);
-    g.fillRect (juce::Rectangle<float> (409.0f, 78.0f, 20.0f, 103.0f));
-    // b
-    g.fillRect (juce::Rectangle<float> (433.0f, 78.0f, 20.0f, 103.0f));
-    bowl (466.0f);
-    // x: two arcs back to back
-    juce::Path x;
-    x.startNewSubPath (503.0f, 126.0f);
-    x.quadraticTo (539.0f, 152.5f, 503.0f, 179.0f);
-    x.startNewSubPath (547.0f, 126.0f);
-    x.quadraticTo (511.0f, 152.5f, 547.0f, 179.0f);
-    g.strokePath (x, juce::PathStrokeType (17.0f, juce::PathStrokeType::curved, juce::PathStrokeType::butt));
-
+    // "JB" occupies the box where the hardware carries its maker's logo.
+    drawLegend (g, "JB", 384.0f, 78.0f, 534.0f, 181.0f);
     drawLegend (g, "160XT", 338.0f, 192.0f, 580.0f, 232.0f);
 }
 

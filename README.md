@@ -4,6 +4,10 @@
 
 A JUCE/C++ VST3 compressor modelled on my own dbx 160XT. It keeps the hardware's front panel layout and models its audio behaviour from the real circuit: RMS detector, hard knee and OverEasy, a ratio law that runs through infinity to negative ratios, and stereo strapping that sums power across channels.
 
+![JB 160XT plugin](Documentation/images/jb160xt-plugin.png)
+
+The hardware it's modelled on:
+
 ![Front panel reference](Documentation/pictures-of-my-160xt/front.jpg)
 
 ## Features

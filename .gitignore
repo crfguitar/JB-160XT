@@ -27,6 +27,7 @@ Documentation/**
 !Documentation/00_Index/*.csv
 !Documentation/07_Hardware_Measurement_Plan/*.json
 !Documentation/pictures-of-my-160xt/*.jpg
+!Documentation/images/*.png
 Documentation/00_Index/Extracted_Text/
 Documentation/00_Index/Source_Pages/
 Documentation/pictures-of-my-160xt/_originals/
