@@ -1,0 +1,69 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  JUCE_VERSION: '9.0.1'
+
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch JUCE ${{ env.JUCE_VERSION }}
+        shell: bash
+        run: git clone --depth 1 --branch "$JUCE_VERSION" https://github.com/juce-framework/JUCE.git "$RUNNER_TEMP/JUCE"
+
+      - name: Configure
+        shell: bash
+        run: cmake -S . -B build -A x64 -DJUCE_DIR_PATH="$RUNNER_TEMP/JUCE"
+
+      - name: Build
+        run: cmake --build build --config Release --parallel
+
+      - name: DSP tests
+        run: build\Release\jb160_dsp_tests.exe
+
+      - name: Package
+        shell: pwsh
+        run: |
+          $art = "build/JB160XT_artefacts/Release"
+          $name = if ($env:GITHUB_REF_TYPE -eq 'tag') { $env:GITHUB_REF_NAME } else { "dev-$($env:GITHUB_SHA.Substring(0,7))" }
+          New-Item -ItemType Directory -Force dist | Out-Null
+          Copy-Item README.md, LICENSE "$art/VST3/"
+          Compress-Archive -Path "$art/VST3/*" -DestinationPath "dist/JB160XT-$name-win64-VST3.zip"
+          Copy-Item README.md, LICENSE "$art/Standalone/"
+          Compress-Archive -Path "$art/Standalone/*" -DestinationPath "dist/JB160XT-$name-win64-Standalone.zip"
+          Get-ChildItem dist
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: JB160XT-win64
+          path: dist/*.zip
+
+      - name: Publish release
+        if: github.ref_type == 'tag'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cat > notes.md <<'EOF'
+          ## Install (Windows)
+
+          1. Unzip the **VST3** archive and copy `JB 160XT.vst3` to `C:\Program Files\Common Files\VST3`.
+          2. Rescan plugins in your DAW.
+
+          The **Standalone** archive runs without a DAW.
+
+          The builds are unsigned, so Windows SmartScreen may warn the first time you run the standalone.
+          EOF
+          gh release create "$GITHUB_REF_NAME" dist/*.zip --title "JB 160XT $GITHUB_REF_NAME" --notes-file notes.md --generate-notes

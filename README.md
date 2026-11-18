@@ -1,5 +1,7 @@
 # JB 160XT
 
+[![Build](https://github.com/crfguitar/JB-160XT/actions/workflows/build.yml/badge.svg)](https://github.com/crfguitar/JB-160XT/actions/workflows/build.yml) [![Release](https://img.shields.io/github/v/release/crfguitar/JB-160XT)](https://github.com/crfguitar/JB-160XT/releases/latest)
+
 A JUCE/C++ VST3 compressor modelled on my own dbx 160XT. It keeps the hardware's front panel layout and models its audio behaviour from the real circuit: RMS detector, hard knee and OverEasy, a ratio law that runs through infinity to negative ratios, and stereo strapping that sums power across channels.
 
 ![Front panel reference](Documentation/pictures-of-my-160xt/front.jpg)
@@ -21,6 +23,8 @@ cmake -S . -B build -G "Visual Studio 17 2022" -A x64 -DJUCE_DIR_PATH=C:/JUCE
 cmake --build build --config Release
 build\Release\jb160_dsp_tests.exe
 ```
+
+**Prebuilt downloads:** see [Releases](https://github.com/crfguitar/JB-160XT/releases/latest).
 
 The VST3 ends up in `build/JB160XT_artefacts/Release/VST3/JB 160XT.vst3`. Copy it to `C:\Program Files\Common Files\VST3` to install it.
 
