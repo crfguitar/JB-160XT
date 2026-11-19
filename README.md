@@ -10,6 +10,10 @@ The hardware it's modelled on:
 
 ![Front panel reference](Documentation/pictures-of-my-160xt/front.jpg)
 
+## Why "JB"
+
+The JB is for [Jay Berndt](https://jayberndt.bandcamp.com/album/life-love-loss). We met in Providence, and for 20 years he's been my mentor in songwriting, mixing, and studio engineering, and like a big brother in everything else. Around 2012 he recommended a dbx 160XT to me for kick and bass. I built this with the patience and love he taught me.
+
 ## Features
 
 - Threshold, compression ratio (1:1 … ∞:1 … −1:1), output gain, OverEasy, bypass, slave (stereo link) and input/output display, as on the hardware
